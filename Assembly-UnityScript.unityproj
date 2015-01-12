@@ -46,10 +46,16 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\LookMouse.js" />
-     <Compile Include="Assets\Weapon.js" />
-     <Compile Include="Assets\fire.js" />
-     <Compile Include="Assets\movement.js" />
+     <Compile Include="Assets\scripts\Die.js" />
+     <Compile Include="Assets\scripts\Enemy.js" />
+     <Compile Include="Assets\scripts\EnemySpawner.js" />
+     <Compile Include="Assets\scripts\KillCounter.js" />
+     <Compile Include="Assets\scripts\LookMouse.js" />
+     <Compile Include="Assets\scripts\MoveAI.js" />
+     <Compile Include="Assets\scripts\PlayerHealth.js" />
+     <Compile Include="Assets\scripts\Weapon.js" />
+     <Compile Include="Assets\scripts\fire.js" />
+     <Compile Include="Assets\scripts\movement.js" />
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Users/Fredrik/unity 4.6/Editor/Data/UnityExtensions/Unity/GUISystem/4.6.0/UnityEngine.UI.dll</HintPath>
  </Reference>
